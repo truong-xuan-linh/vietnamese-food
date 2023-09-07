@@ -1,0 +1,756 @@
+{"banh_mi_nuong": """# [**Bánh mì nướng muối ớt**](https://www.vickypham.com/blog/grilled-vietnamese-bread-with-salt-chili-banh-mi-nuong-muoi-ot)
+
+Banh Mi Nuong Muoi Ot is one such food. It has gotten really popular in the major cities of Vietnam recently. You will see young foodies, eagerly waiting in long lines to get a taste of this unique and flavorful snack from the many food stands that have popped up overnight. What makes this street food so popular is because it offers a taste of American and Vietnamese fusion. Plus, it's simple good food, and I can't imagine the wonders it does for a bad hangover.
+
+Ingredients:
+-	Bread
+-	pork chop
+-	shrimp salt
+-	roasted shrimp
+-	dried shrimp
+-	scallions
+-	spices: chili sauce, satay, main noodles, sugar, butter, ketchup, mayonnaise, cooking oil
+
+Famous places in HCM:
+-	Bánh mì nướng muối ớt Phạm Văn Chí: 262 Phạm Văn Chí St, W.3, D.6, HCM City
+-	Bánh mì nướng muối ớt Cô Tám: 56T Lê Quang Sung St, W.6, D.6, HCM City
+-	Bánh mì nướng Sư Vạn Hạnh: 343/34 Sư Vạn Hạnh St, W,12, D10, HCM City
+-	Bánh mì nướng muối ớt Ti Ti: 71 Điện Biên Phủ St, W15, Bình Thạnh District, HCM City
+-	Bánh mì nướng muối ớt Cô Nga: 85E Lê Quang Sung St, District 6, HCM City
+  
+Price: 8.000-40.000 VND""",
+"com_chay": """# [**Cơm cháy**](https://en.wikipedia.org/wiki/Scorched_rice)
+
+In Vietnamese cuisine, it is called cơm cháy (literally "scorched rice"). It is typically fried in oil until golden brown, then topped with chà bông (pork floss) or tôm khô (dried shrimp), mỡ hành (chopped scallions cooked by pouring boiling oil over them to release their aroma), and chili paste to produce a popular dish called cơm cháy chà bông or cơm cháy tôm khô (although both the pork and shrimp may be used, in which case the dish is called cơm cháy chà bông tôm khô or cơm cháy tôm khô chà bông). Cơm cháy may be made from the crust of rice left over from cooking rice in an iron pot, or, more commonly since the advent of electric rice cookers in the late 20th century, from leftover rice that is fried in oil over high heat to acquire a crispy texture.
+
+Famous places in Ninh Bình : 
+-	Nhà hàng Hoàng Giang: Hang Cá, Trường Yên, Hoa Lư 
+-	Nhà hàng Thăng Long: Tràng An, Trường Yên, Hoa Lư 
+-	Nhà hàng Đức Dê: số 446 Nguyễn Huệ, Hoa Lư.
+
+Famous places in HCM:
+-	Rụm – Cơm cháy nhà làm: 221/17 Võ Văn Tần Street, Ward 5, District 3, HCM City
+-	Cơm cháy Sài Gòn: 232/38 Lý Thường Kiệt Street, Ward 14, District 10, HCM City
+-	Cơm cháy Năm Mập: 94/14/11 Trần Khắc Chân Street, District Phú Nhuận, HCM City
+-	Cơm cháy Cô Út Sài Gòn: 27/45 Trần Khắc Chân Street, Ward Tân Định, District 1, HCM City
+-	Cơm cháy Cô Ba Sài Gòn: 555/5 Trần Hưng Đạo Street, Ward Cầu Kho, District 1, HCM City
+  
+Price: 15.000-20.000 VND / 100gr""",
+"sup_cua": """# [**Súp cua**](https://www.thevietdish.com/vietnamese-egg-drop-crab-soup/) 
+
+Súp cua (egg drop crab soup) is an easy dish to prepare with the main ingredients are crabs, meat, chicken eggs or quail eggs, and chicken bone or corn kernels to make the soup sweeter and more nutritious.
+
+Ingredients:
+-	Chicken bone
+-	Crab
+-	Pea
+-	Corn kernels
+-	Mushroom
+-	Chicken egg, quail egg
+-	Tapioca starch
+-	Salt, spices, pepper
+-	Chilli sauce
+-	Sesame oil
+-	Herbs
+
+Famous places in HCM:
+-	Súp cua nhà thờ Đức Bà: 86 Nguyễn Du Street, Bến Nghé Ward, District 1, HCM City
+-	Súp cua Mộc: 32 Hoà Hưng Street, Ward 13, District 10, HCM City
+-	Súp cua cô Bông chợ Thiếc: 166 Phó Cơ Điều Street, District 11, HCM City
+-	Súp cua Bông: 59C Mạc Đỉnh Chi Street, District 1, HCM City
+-	Súp cua Hoa Cúc: 1 Hoa Cúc Street, Ward 7, Phú Nhuận Street, HCM City
+  
+Price: 10.000-20.000 VND""",
+"bun_dau_mam_tom": """# [**Bún đậu mắm tôm**](https://whattodoinhanoi.com/bun-dau-mam-tom-vietnamese-noodle-with-fried-tofu-and-shrimp-paste/) 
+
+Bun Dau Mam Tom (or Vietnamese Noodle with Fried Tofu and Shrimp Paste) is one of the most well-loved dishes in Vietnam, originating in the capital Hanoi. Unlike others amazing Vietnamese food creations like Pho, Bun Cha, Banh Mi, you name it; Bun Dau Mam Tom has a completely different charm that can be hard to accept at first but grow on you gradually and become your favorite dish without you knowing. It is an acquired taste, I would say. Walking through the renowned Old Quarter of Hanoi, if you get a sniff of a specially strong smell, chances are you have come across our star of the day. Bun Dau Mam Tom is even smellier than durian. I know it sounds so unappetizing when hearing that. But hopefully, this article will give you a different view and convince you to give it a try.
+
+Ingredients:
+-	Tofu
+-	Boiled pork
+-	Noodle (Bún)
+-	Shrimp paste
+-	Chả Cốm (Green Rice Pork Pies)
+-	Intestine of pig
+-	Ried spring rolls
+-	Herbs & veg
+
+Original places in Ha Noi:
+-	Bún đậu Hàng Khay: 29 Hàng Khay lane, Hoàng Kiếm District, Hà Nội
+-	Bún đậu Trung Hương: 49 Phất Lộc lane, Hoàng Kiếm District, Hà Nội
+-	Bún đậu Cây Bàng: 129 Đại La St, Hai Bà Trưng District, Hà Nội
+
+Famous places in HCM:
+-	Bún đậu Ngỏ nhỏ Phố nhỏ: 158 Pasteur St, Bến Nghe Ward, District 1, HCM City
+-	Bún dậu Hàng Khay: 209 Nguyễn Trọng Tuyển St, Ward 8, Phú Nhuận District, HCM City.
+-	Bún đậu 46: 240 Trần Hưng Đạo St, Nguyễn Cư Trinh Ward, District 1, HCM City.
+-	Quán Hẻm Đậu: 140E Lý Chính Thắng St, District 3, HCM City
+-	Bún đậu A Chảnh: 359 Nguyễn Thượng Hiền, Ward 11, District 3, HCM City.
+  
+Price: 25.000-50.000 VND""",
+"cao_lau": """# [**Cao lầu**](https://en.wikipedia.org/wiki/Cao_l%E1%BA%A7u) 
+
+Cao lầu is a regional Vietnamese noodle dish, from the city of Hội An, in central Vietnam's Quảng Nam Province. It typically consists of pork and greens on a bed of rice noodles made from rice which has been soaked in lye water, giving them a characteristic texture and colour that sets the dish apart from other Vietnamese noodle dishes, including others from the same region, such as mì Quảng.
+
+Ingredients:
+-	Pork loin
+-	Vegetable oil
+-	Lemongrass, bruised
+-	Five spice
+-	Sugar
+-	Sea salt
+-	Coarse black pepper
+-	Garlic, pounded
+-	Soya sauce
+-	Pork stock
+-	Bean sprouts, blanched
+-	Wheat noodles or ramen noodles
+-	Herbs (anise basil, coriander, mustard sprouts,..)
+-	lettuce, chrysanthemum leaves
+-	Rice crackers
+-	Cao lau croutons
+-	Spring onion curls
+-	Chilli
+
+Original places in Hội An;
+-	Cao lầu Thanh: 26 Thái Phiên St, Minh An Ward, Hội An City, Quảng Nam Province.
+-	Cao lầu Liên: 21B Thái Phiên St, Minh An Ward, Hội An City, Quảng Nam Province.
+-	Cao lầu Hội An Bà Bé: 19 Trần Phú St, Cẩm Châu Ward, Hội An City, Quảng Nam Province.
+
+Famous places in HCM:
+-	Hội Phố: 457/1 Cách Mạng Tháng 8 St, Ward 13, District 10, HCM City.
+-	Cao lầu Đường Độc Lập: 166A Độc Lập St, Tân Thành Ward, Tân Phú District, HCM City.
+-	Lan Thanh: 21/23A Vạn Kiếp St, Ward 3, Bình Thạnh District, HCM City.
+-	Mai Linh: 32B Nhiêu Tứ St, Ward 7, Phú Nhuận Ward, HCM City.
+-	Cao lầu quán: 107C Street no.8, Linh Trung Ward, Thủ Đức District, HCM City.
+
+Price: 20.000-50.0000 VND""",
+"banh_can": """# [**Bánh căn**](https://www.tasteatlas.com/banh-can) 
+
+Bánh căn are made with a thin rice flour batter. They are cooked on outdoor grills which are equipped with a specialized terracotta bánh căn mold. The mixture is poured into the mold, and the pancake is then topped with a whole shrimp and scallions, or optionally pork or quail eggs.
+
+Ingredients:
+-	Rice
+-	cold rice
+-	tomato
+-	chives
+-	shrimp
+-	quail eggs
+-	seasoning sauce
+-	spices: pepper, salt, sugar, fish sauce, seasoning seeds, cooking oil
+
+Original places in Ninh Thuận:
+-	Bánh căn bánh xèo Vinh: 16 tháng 4 ST, Phan Rang City, Ninh Thuận Province
+-	Quán bánh căn bánh xèo hồ cá Phan Rang: 93 Trần Quang Diệu St, Thành Sơn Ward, Phan Rang City, Ninh Thuận Province
+-	Quán bánh căn bánh xèo chợ Động: Động Martket, Thanh Sơn Ward, Phan Rang City, Ninh Thuận Province 
+
+Famous places in HCM:
+-	Phan Rang Quán 128: 15 Trường Sơn, W.15, District 10, HCM City.
+-	Quán Bánh Căn Phan Rang Cô Ba: 07 Phú Thọ St, W.15, District 11, HCM City.
+-	Quán bánh căn Đà Lạt: 58/8 Đồng Nai St, W.15, District 10, HCM City.
+-	DaLat Foods: 214/19A Nguyễn Văn Nguyễn St, Tân Định Ward, District 1, HCM City.
+-	Quán Cô Sương Chợ Đầm: K4 Bửu Long St, W.15, District 11, HCM City.
+
+Price: 10.000-30.000 VND""",
+"bot_chien": """# [**Bột chiên**](https://whenstill.com/pan-fried-rice-cake/) 
+
+Bột Chiên, translated means fried flour. The texture is soft on the inside and crispy on the outside. It’s covered in shredded daikons and carrots. It comes with a sweet vinegar soy sauce that you can pour over or dip. And all the small rice cakes are covered in eggs and green onions. Most places will ask you if you want one or two eggs.
+
+Ingredients:
+-	Rice flour
+-	Eggs
+-	Oil
+-	Soy sauce 
+-	Oyster sauce
+-	Vinegar
+-	Sugar
+-	Salt
+-	Scallions
+-	Grated papaya and carot
+-	Chili 
+
+Original places in HCM:
+-	Bột chiên Vạn Thành: 185 Võ Văn Tần St, Ward 5, District 3, HCM City
+-	Bột chiên Đạt Thành: 277 Võ Văn Tần St, Ward 5, District 3, HCM City
+-	Bột chiên Nguyễn Kim: 187 Nguyễn Kim St, Ward 7, District 10, HCM 
+-	Bột chiên A Bình: 28 street 18th, Ward 8, Gò Vấp District, HCM City.
+-	Bột chiên Trần Bội Cơ: 272 Hải Thượng Lãn Ông St, District 5, HCM City.
+
+Price: 15.000-35.0000 VND""",
+"nem_chua": """# [**Nem chua**](https://en.wikipedia.org/wiki/Nem) 
+
+Nem chua is a Vietnamese fermented pork dish, usually rolled or cut in bite sizes. The meat is sweet, sour, salty and spicy. It is often served with bird's eye chili, garlic and Vietnamese coriander. Nem chua each region has its own flavor, but the most famous is Thanh Hoá. 
+
+Ingredients:
+-	Pork (pork butt and pork loin minced or pounded)
+-	Salt
+-	Pepper
+-	Sugar
+-	Garlic
+-	Pork skin 
+-	Intestine leaves (leaves of guava, figs, cloves and nem leaves) for wrapping a thin layer.
+-	Banana leaves for a thick layer outside.
+	
+Famous places in Thanh Hoá:
+-	Thắng Tuyến: 409 Lê Hoàn Street, Điện Biên Ward, Thanh Hoá City
+-	Cương Dũng: 15 Tân An Street, Ngọc Trạo Ward, Thanh Hoá City
+	
+Famous places in HCM:
+-	Nem chua Lê Bằng: 414/12/6A Highway 13, Quart 6, Hiệp Bình Phước Ward, Thủ Đức District, HCM City
+	
+Price: 3.000 – 5.000 VND / roll""",
+"pho": """# [**Phở**](https://en.wikipedia.org/wiki/Pho) 
+
+Phở is a Vietnamese soup dish consisting of both, rice noodles (bánh phở), herbs, and meat (usually beef), sometimes chicken. Phở is a popular food in Viet Nam where it is served in households, street stalls and restaurants countrywide. Phở is considered Viet Nam’s national dish.
+
+Ingredient:
+-	Rice noodles
+-	Soup (made by simmering beef bones, oxtails, flank steak, charred onion, charred ginger and spices)
+-	Beef parts including:
+  +	Rare beef patty, beef is minced by a chopping knife right before serving
+  +	Medium Rare Meat
+  +	Rare meat
+  +	Mixture of medium rare meat and pre-cooked well-done meat, the default serving in most pho restaurants
+  +	Meat is sauteed before adding to the soup
+  +	Mix of medium rare meat with flank
+  +	Flank cut
+  +	risket
+  +	Tendons
+  +	Beef tripe
+  +	Boiled beef blood
+  +	Beef ball
+  +	Poached chicken egg (served in a separated bowl)
+-	Chicken parts including:
+  +	Chicken thigh
+  +	Chicken breast
+  +	Chicken innards
+  +	Immature chicken eggs
+-	Herbs, lime, chilli
+	
+Famous places in Hà Nội and Nam Định:
+-	Phở gia truyền: 49 Bát Đàn Street, Hoàn Kiếm District, Hà Nội City
+-	Phở Cường: 23 Hàng Muối Street, Hoàn Kiếm District, Hà Nội City
+-	Phở Cụ Tặng: 23 Hàng Tiện Street, Quang Trung Commune, Nam Định Province
+	
+Famous places in HCM:
+-	Phở Lệ: 413-415 Nguyễn Trãi Street, Ward 7, District 5, HCM City
+-	Phở Hoà: 260C Pasteur Street, District 3, HCM City
+-	Phở Cao Vân: 25 Mạc Đĩnh Chi Street, District 1, HCM City
+-	Phở Thìn: 170 Nguyễn Đình Chiểu Street, Ward 6, District 3, HCM City
+-	Phở Tàu Bay: 433-435 Lý Thái Tổ Street, Ward 9, District 10, HCM City
+	
+Price: 30.000-80.000 VND""",
+"bun_cha": """# [**Bún chả**](https://en.wikipedia.org/wiki/Bun_cha)
+
+Bún chả is a Vietnamese dish of grilled pork and noodle, which is thought to have originated from Hanoi, Vietnam. Bún chả is served with grilled fatty pork (chả) over a plate of white rice noodle (bún) and herbs with a side dish of dipping sauce. The dish was described in 1959 by Vietnamese food writer Vu Bang (1913–1984) who described Hanoi as a town "transfixed by bún chả." Hanoi's first bún chả restaurant was on Gia Ngư, Hoàn Kiếm District, in Hanoi's Old Quarter.
+
+Ingredients:
+-	Pork (belly & minced pork)
+-	Bún (Vietnamese noodels)
+-	Garlic
+-	Chili
+-	Fish sauce
+-	Oyster sauce
+-	Green papaya, carrots, kohlrabi
+-	Sugar
+-	Rice vingar or lime juice
+-	Salt
+-	Herbs (coriander, perilla, lettuce, Vietnamese balm, …)
+
+Original places in Hà Nội:
+-	Bún chả Gia Ngư: Gia Ngư St, Hoàn Kiếm District, Hà Nội
+-	Bún chả Hương Liên (bún chả Obama): 24 Lê Văn Hưu St, Hai Bà Trưng District, Hà Nôi.
+-	Bún chả Cửa Đông: 41 Cửa Dông St, Hoàn Kiếm District, Hà Nội.
+
+Famous places in HCM:
+-	Bún chả Trư Bát Giới: 72 Trương Quyển St, District 3, HCM City
+-	Bún chả Bùi Viện: 145 Bùi Viện St, District 1, HCM City.
+-	Bún chả Phố Cổ: 225 Phan Xích Long St, Phú Nhuận District, HCM City
+-	Bún chả Hồ Gươm: 135 Võ Văn Tần St, District 3, HCM City.
+-	Bún chả 26: 8A/9C2 Thái Văn Lung St, District 1, HCM City
+
+Price: 25.000-50.0000 VND""",
+"bun_bo_hue": """# [**Bún bò Huế**](https://en.wikipedia.org/wiki/B%C3%BAn_b%C3%B2_Hu%E1%BA%BF)
+
+Bún bò Huế  or bún bò is a popular Vietnamese soup containing rice vermicelli (bún) and beef (bò). Huế is a city in central Vietnam associated with the cooking style of the former royal court. The dish is greatly admired for its balance of spicy, salty, and umami flavors. The predominant flavor is that of lemongrass. Compared to phở or bún riêu, the noodles are thicker and more cylindrical. Bún bò originated in Huế, a former capital of Vietnam. Outside the city of Huế and some parts of central Vietnam, it is called bún bò Huế to denote its origin. Within Huế and surrounding cities, it is known simply as bún bò. The broth is prepared by simmering beef bones and beef shank with lemongrass, and then seasoned with fermented shrimp sauce and sugar for taste. Spicy chili oil is added later during the cooking process.
+
+Ingredients:
+-	Beef shank
+-	Oxtail
+-	Pork hocks
+-	Huế style pork sausage (chả Huế)
+-	Block of pork blood
+-	Chicken broth
+-	Yellow onions
+-	Salt 
+-	Suger
+-	Shrimp paste
+-	Monosodium glutamate
+-	Fish sauce
+-	Anatto seeds
+-	Oil
+-	Shallot 
+-	Garlic
+-	Herbs & veg (mint, basil, bean sprouts, lime, Vietnamese coriander,..)
+-	Dried rice noodle
+-	Saté
+
+Original places in Hếu:
+-	Bún bò Huế bà Tuyết: 47 Nguyễn Công Trứ St, Huế City.
+-	Bún bò O Phụng – chú Vọng: 14 Nguyễn Du St, Huế City. 
+-	Bún bò Huế O Cương - chú Điệp: 6 Trần Trúc Nhẫn St, Huế City.
+
+Famous places in HCM:
+-	Quán Út Hưng: 113 Bà Huyện Thanh Quan St, District 3, HCM City.
+-	Bún bò Hồ Ếch: 159G/27 Dạ Nam St, Ward 3, District 8, HCM City.
+-	Quán Ngự Bình: 82 Cư xá Nguyễn Văn Trỗi, Phú Nhuận District, HCM City.
+-	Bún bò Cô Mai: 158 Vành Đai Trong St, Tân Bình District, HCM City.
+-	Quán Hạnh: 135 Bành Vân Trân St, Tân Bình District, HCM City.
+
+Price: 25.000-60.0000 VND""",
+"banh_trang_nuong": """# [**Bánh tráng nướng**](https://en.wikipedia.org/wiki/B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng)
+
+Banh trang nuong is colloquially called Vietnamese pizza or Vietnamese quesadilla, as a visual comparison for foreigners and tourists. They are particularly popular in Đà Lạt and Ho Chi Minh City, Vietnam. Common toppings are egg, ground pork, dried shrimp or fermented shrimp paste, fried shallots, pork floss, scallion oil, hot chili sauce and mayo. Other variations may also include chicken, beef, cheese, butter, spam, or sausage. Many types of bánh tráng exist, including the clear sesame seed ones, prawn-like crackers with dried spring onions, and sweet milk.
+
+Ingredients:
+-	quail eggs
+-	dried shrimp
+-	rice paper
+-	garlic
+-	sausages
+-	pork chop
+-	dried beef
+-	scallions
+-	cheese
+-	seasoning: chili sauce, mayonnaise, butter, cooking oil
+
+Original places in Đà Lạt: 
+-	Bánh tráng nướng Dì Đinh: số 26 Hoàng Diệu St, Ward 5, Đà Lạt City, Lâm Đồng Provine
+-	Bánh Tráng Nướng 112 Nguyễn Văn Trỗi: 112 Nguyễn Văn Trỗi St, Đà Lạt City, Lâm Đồng Provine
+-	Bánh tráng nướng Bà Khùng: 61 Nguyễn Văn Trỗi St, Đà Lạt City, Lâm Đồng Provine
+-	Famous places in HCM:
+-	Quán Góc Đà Lạt: 386/43B Lê Văn Sĩ St, Ward 14, District 3, HCM City
+-	Quán bánh tráng Cao Thắng: 61 Cao Thắng St, Ward 3, District 3, HCM
+-	Bánh tráng C002: 23/49 Đinh Tiên Hoàng St, Bình thạnh District, HCM
+-	Pizza Đà Lạt: 31 D2 St, Bình Thạnh District, HCM City
+-	Đà Lạt quán: 214/19/19 Nguyễn Văn Nguyễn St, District 1, HCM City
+  
+Price: 10.000-30.000 VND""",
+"banh_mi": """# [**Bánh mì**](https://en.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC)
+
+Bánh mì is a short baguette with thin, crisp crust and soft, airy texture. It is often split lengthwise and filled with savory ingredients like a submarine sandwich and served as a meal. Plain banh mi is also eaten as a staple food.
+
+Ingredients:
+-	Bread
+-	Pork
+-	laksa leaves
+-	five-spice powder
+-	white wine
+-	cucumber
+-	seasoning: vinegar, ground pepper, sugar, salt, fish sauce, garlic, chili, cucumber, chili sauce
+
+Famous places in HCM:
+-	Bánh mì Huỳnh Hoa: 26 Lê Thị Riêng St, Bến Thành Ward, District 1, HCM City
+-	Bánh mì Cô Điệp: 238 Võ Thành Trang St, Ward 11, Tân Bình District, HCM City
+-	Bánh mì cóc: 38 Nguyễn Thái Sơn St, Ward 3, Gò Vấp District, HCM City
+-	Bánh mì Bảy Hổ: 19 Huỳnh Khương Ninh St, Đa Kao Ward, District 1, HCM CIty
+-	Bánh mì thịt nướng Nguyễn Trãi:  37 Nguyễn Trãi St, Bến Thành Ward, District 1, HCM City
+
+Price: 10.000-50.000 VND""",
+"banh_trang_tron": """# [**Bánh Tráng trộn**](https://www.vickypham.com/blog/vietnamese-rice-paper-salad-banh-trang-tron)
+
+Vietnamese rice paper salad (Banh Trang Tron) is what Andrew Zimmern describes as “Vietnam in a bag.” This street food is what I like to call a hodge-podge salad. It’s a popular street food in Southern Vietnam, particularly Ho Chi Minh City. It includes leftover ingredients and condiments to transform unwanted broken rice paper into an unorthodox salad of amazing textures and flavors.
+
+Ingredients:
+-	Mango
+-	beef jerky
+-	rice paper
+-	satay
+-	peanuts
+-	herbs
+-	lemon
+-	dried shrimp
+-	seasoning: soy sauce, vinegar, sugar
+
+Famous places in HCM:
+-	Bánh tráng trộn LONG 34: 34 Nguyễn Thượng Hiền St, Ward 5, District 3, HCM City
+-	Chú Út - Bánh Tráng Trộn & Sinh Tố: 240/7/6 Nguyễn Văn Luông St, Ward 11, District 6, HCM City
+-	Cô Tiên Xanh - Bánh Tráng: 200 Lê Sát St, Tân Quý Ward, Tân Phú District, HCM City
+-	Bánh Tráng Trộn Chợ Chiều: 2 Kênh Tân Hóa St, Phú Trung Ward, Tân Phú District, HCM City
+-	Thành Danh - Bánh Tráng Trộn Tây Ninh: 245 Lê Văn Thọ St, Ward 11, Gò Vấp District, HCM City
+   	
+Price: 10.000-40.000 VND""",
+"banh_xeo": """# [**Bánh xèo**](https://saigoneer.com/saigon-food-culture/7905-the-evolution-of-b%C3%A1nh-x%C3%A8o-a-street-food-history)
+
+Bánh xèo (Vietnamese pancake) is a crispy, stuffed rice pancake popular in Vietnam. Bánh means cake while xèo means sizzle. The name refers to the loud sound the rice batter makes when it is poured into the hot skillet. It is a savoury fried pancake made of rice flour, water, and turmeric powder. It can also be called a Vietnamese crêpe. Some common stuffings include pork, prawns, diced green onion, mung bean, and bean sprouts. Bánh xèo is also served with lettuce, mint, Thai basil, and fish mint.
+	
+Ingredients:
+-	Rice flour
+-	Water
+-	Coconut milk
+-	Turmeric powder
+-	Scallion
+-	Oil
+-	Lime juice
+-	Fish souce
+-	Garlic clove
+-	Red chili
+-	Fresh bean sprouts
+-	Pork or mushrooms
+-	Small shrimps
+-	Lettuce leaves and herbs (mint and cilantro)
+
+Famous places in HCM:
+-	Bánh Xèo Cầu Ván - 211 Lũy Bán Bích St, Tân Thới Hoà Ward, Tân Phú District, HCM  City.
+-	Bánh Xèo 46A - 46A Đinh Công Tráng St, Tân Định Ward, District 1, HCM City
+-	Bánh Xèo Dư - 274 Nguyễn Văn Đậu St, Ward 11, Bình Thạnh District, HCM City
+-	Bánh Xèo Quảng Ngãi Cô Chi - 468 Bùi Đình Túy St, Ward 12, Bình Thạnh District, HCM City.
+-	Bà hai bánh xèo, 119 Lê Văn Linh St, Ward 13, District 4, HCM city
+
+Price: 20.000-50.0000 VND""",
+"com_tam": """# [**Cơm tấm**](https://en.wikipedia.org/wiki/C%C6%A1m_t%E1%BA%A5m)
+
+Cơm tấm  is a Vietnamese dish made from rice with fractured rice grains. Tấm refers to the broken rice grains, while cơm refers to cooked rice.  Although there are varied names like cơm tấm Sài Gòn (Saigon-style broken rice), particularly for Saigon, the main ingredients remain the same for most cases.
+
+Ingredients:
+-	Broken Rice - a traditionally cheaper grade of rice produced by damage in milling. It is mainly used as a food industry ingredient in America and Europe, but in West Africa and Southeast Asia is used for human consumption. Broken rice is fragmented, not defective; there is nothing wrong with it. This is the main ingredient of Com Tam.
+-	Sườn nướng - Grilled pork ribs
+-	Bì - thin strands of pork and cooked pork skin seasoned with roast rice powder
+-	Chả trứng - Vietnamese-style steamed omelet with meatloaf. Nowadays this may be substituted with an omelet or fried egg
+-	Scallion and oil garnish - chopped scallion lightly fried in heated oil until softened (serve both scallion and oil) 
+-	Various vegetables, such as sliced cucumber and tomato, and pickled vegetables such as carrot and radish pickles
+-	Mixed fish sauce (Nước mắm pha) - a sweet, sour, salty, savory and/or spicy sauce served in a small bowl beside the Com Tam dish. This ingredient is commonly considered an important part of a Com Tam dish
+
+Famous places in HCM City:
+-	Cơm tấm Thu Thảo: 459-461 Lê Đại Hành Street, District 11, HCM City
+-	Cơm tấm Ba Há: 389 Hưng Phú Street, Ward 4, District 8, HCM City
+-	Cơm tấm Tú Mập: 89-91 Đồng Đen Street, Ward 12, Tân Bình District, HCM City
+-	Cơm tấm Ba Ghiền: 84 Đặng Văn Ngữ Street, Ward 10, Phú Nhuận District, HCM City
+-	Cơm tấm Kiều Giang: 192E Trần Quang Khải Street, District 1, HCM City
+	
+Price: 25.000 – 60.000 VND""",
+"banh_beo": """# [**Bánh bèo**](https://en.wikipedia.org/wiki/B%C3%A1nh_b%C3%A8o)
+
+A bánh bèo is a Vietnamese dish that is originated from Huế, a city in Central Vietnam. The English translation for this dish is water fern cakes. Bánh bèo is made from a combination of rice flour and tapioca flour. It is popular street food in Vietnam. The ingredients include rice cake, dried shrimps, crispy pork skin, scallion oil, and dipping sauce. It is usually eaten as a snack but is now considered a dish in restaurants and can be eaten as lunch and dinner.
+
+Ingredients:
+-	 rice flour
+-	 tapioca flour
+-	 green beans
+-	 Pork
+-	 onions, garlic
+-	 fried rice
+-	 coconut milk
+-	 pandan leaves
+-	 carrot, white radish
+-	 seasoning: fish sauce, salt, vinegar, sugar, soy sauce, monosodiumglutamate, cooking oil, pepper 
+
+Original places in Hue:
+-	Trang Neko Food: 30 Lý Tự Trọng St, Huế City
+-	Quán bà Đỏ: 08 Nguyễn Bỉnh Khiêm St, Huế City
+-	Bánh bèo chén Huế Xưa: 1 Nguyễn Bỉnh Khiêm St, Phú Cát, Huế City.
+
+Famous places in HCM:
+-	Bánh béo chén Kỳ Đồng:  45C Kỳ Đồng St, W.9, District 3, HCM City.
+-	Bánh bèo chén D2: 65 đường D2 St, W.25, Quận Bình Thạnh District, HCM City.
+-	Bánh bèo bà Sáu: 588 Phạm Văn Chiêu St, W.16, District Gò Vấp, HCM.
+-	Bánh bèo Qươ:  402/39 Lê Văn Sỹ St, W.14, District 3, HCM City.
+-	Bánh bèo Ngọc Trâm: 419 Sư Vạn Hạnh St, W.12, District 10,HCM City
+
+Price: 4.000-20.000 VND""",
+"banh_gio": """# [**Bánh giò**](https://prolandtravel.vn/en/banh-gio-vietnamese-rice-pyramid-dumplings/)
+
+Bánh giò, a specialty of Sai Gon, is deemed as a filling breakfast choice or a tasty evening treat. To foreigners, the cake is known as Vietnamese rice pyramid dumplings for its pyramid shape formed by wrapping banana leaves. Fresh green banana leaves are first carefully chosen, rinsed and dried before being curved into such a pyramid-shaped mould. It is then respectively filled with well mixed rice batter and a mixture of sliced wood ear mushroom, lean minced pork and finely chopped shallots, which has previously been seasoned with pepper, salt and fish sauce. Another layer of rice batter is added on top of the mould. At last, it is skillfully wrapped to ensure the cake is well cooked without water getting in while boiled.
+
+Ingredients:
+-	rice flour
+-	tapioca flour
+-	bone broth
+-	lean pork
+-	dried onions
+-	2tree ear
+-	spices: soup powder, fish sauce, pepper powder, sugar, cooking oil
+
+Famous places in HCM:
+-	Bánh giò, bánh chưng mẹ Múp: 93 Street 45, Ward 6, District 4, HCM City
+-	Bánh giò 7 trứng Bếp Nhà Tui:  55/24B Phan Đình Phùng St, Ward 17, Phú Nhuận District, HCM City.
+-	Bánh giò Đông Các: 243/7 Tô Hiến Thành St, Ward 13, District 10, HCM City
+-	Bánh giò Nguyễn Thiệt Thuật: 242/101 Nguyễn Thiện Thuật St, Ward 3, District 3, HCM City
+-	Bánh giò nem chả Dì Linh: 185 Hai Bà Trưng St, District 1, HCM City
+
+Price: 15.000-50.000 VND""",
+"banh_khot": """# [**Bánh khọt**](https://www.vickypham.com/blog/vietnamese-mini-savory-pancakes-banh-khot#:~:text=Banh%20Khot%2C%20or%20Vietnamese%20savory,and%20fluffy%20on%20the%20inside.)
+
+Banh Khot, or Vietnamese savory mini pancakes, is made from a batter of rice flour, corn starch, tumeric powder and coconut milk. The batter is fried on a cast iron Banh Khot or Aebleskiver frying pan to crispy perfection on the outside and fluffy on the inside. These mini pancakes are topped with shrimp, brushed with scallion oil and sprinkled with a dash of toasted minced dried prawns. They come with a plate stacked high in Vietnamese herbs and a small bowl of spicy and sweet dipping sauce.
+
+Ingredients:
+-	rice flour
+-	turmeric powder
+-	lean pork
+-	fresh shrimp
+-	duck eggs
+-	grated coconut
+-	green beans
+-	carrots
+-	white radish
+-	scallions, onions, purple onions
+-	spices: pepper, sugar, salt, lemon, chili, fish sauce
+
+Famous places in HCM:
+-	Bánh khọt Cô Hoàng Vũng Tàu: 1159 Trần Hưng Đạo St, W.5, District 5, HCM City
+-	Bánh Khọt Vũng Tàu Khanh: 7 Đồng Nai St, W.15, District 10, HCM City.
+-	Bánh khọt Hải Âu: 78/62 Nguyễn Văn Khối St, Ward 11, Gò Vấp Distrct, HCM City
+-	Bánh khọt Đặng Dung: 32/11 Đặng Dung St, Tân Bình Ward, District 1, HCM City
+-	Bánh khọt cô Ba Vũng Tàu: 216 Phạm Thái Bường St, Tân Phong Ward, District 7, HCM City
+  	
+Price: 10.000-50.000 VND""",
+"chuoi_chien": """# [**Chuối chiên**](https://www.196flavors.com/vietnam-chuoi-chien-fried-bananas/)
+
+Chuối chiên (fried bananas) and they are, without a doubt, one of Vietnam’s most popular street food desserts. In Vietnamese, chuối means banana and chiên means fried. These delicious fritters, dubbed the Vietnamese banana pancake, are one of the most popular traditional sweets in the country. They are incredibly crisp, slightly sweet and certainly a little fat. Chuối chiên are from the Vietnamese countryside.
+
+Ingredients:
+-	Bananas
+-	Vegetable oil
+-	rice flour
+-	All-purpose flour
+-	Baking powder
+-	Yellow food coloring
+-	Juice of half a lime
+-	Salt
+-	Sugar
+-	Water
+
+Famous places in HCM:
+-	Chuối chiên Hoàng Văn Thụ: 159/2 Hoàng Văn Thụ Street, Ward 9, Phú Nhuận District, HCM City.
+-	Chuối chiên Cô Trâm: 13 Hòa Hiệp Street, Ward 4, Tân Bình District, HCM City
+-	Chuối chiên Khoa Mập: 181 Cách Mạng Tháng 8 St, Ward 5, District 3, HCM City
+-	Chuối Cười: 196D Xóm Chiếu Street, Ward 14, District 4, HCM City
+-	Chuối chiên Má Hải: 185 Vĩnh Viễn Street, Ward 4, District 10, HCM City
+
+Price: 5.000-15.0000 VND""",
+"bun_thit_nuong": """# [**Bún thịt nướng**](https://www.hungryhuy.com/bun-thit-nuong-recipe-vietnamese-grilled-bbq-pork-with-rice-vermicelli-vegetables/)
+
+Bún thịt nướng (rice noodles with grilled meat) is a popular Vietnamese dish of cold rice-vermicelli noodle topped with grilled pork, fresh herbs like basil and mint, fresh salad, giá (bean sprouts), and chả giò (spring rolls). The dish is dressed in nước mam fish sauce (nước chấm). Also, the dish is topped with roasted peanuts, Vietnamese pickled carrots, nem nướng̣ (grilled garlic pork sausage) or grilled prawns. Bún thịt nướng is popular in all regions of Vietnam, except for in Hanoi, where a related dish, bún chả, is served.
+
+Ingredients:
+-	Cold rice-vermicelli noodle
+-	Grilled Pork
+-	Sping rolls
+-	Nem nướng̣ (grilled garlic pork sausage)
+-	Pickled daikon and carrots
+-	Callion in oil
+-	Crushed peanuts
+-	Fish sauce
+-	Sugar
+-	Salt
+-	Chilli
+-	Veg (bean sprouts, basil, mint, Viet balm, Viet perilla, cucumber.)
+
+Origin: all regions of Vietnam, except for in Hanoi.
+
+Famous places in HCM:
+-	Bún thịt nướng Hải Đăng: 145 - 157 Chấn Hưng St, Ward 6, Tân Bình District, HCM City.
+-	Bún thịt nướng Anh Ba: 126 Lê Văn Sỹ St, Ward 10, Phú Nhuận District, HCM City.
+-	Bún thịt nướng Chị Tuyền: 175 Cô Giang St, District 1, HCM City.
+-	Bún thịt nướng Sáu Cận: 229 Bùi Đình Túy St, Ward 24, Bình Thạnh District, HCM City.
+-	Bún thịt nướng Tứ Sơn: 746 Sư Vạn Hạnh St , Ward 12, District 10, HCM City.
+
+Price: 20.000-50.0000 VND""",
+"banh_cuon": """# [**Bánh cuốn**](https://en.wikipedia.org/wiki/B%C3%A1nh_cu%E1%BB%91n)
+
+Bánh cuốn is made from a thin, wide sheet of steamed fermented rice batter filled with a mixture of cooked seasoned ground pork, minced wood ear mushroom, and minced shallots. Sides for this dish usually consist of chả lụa (Vietnamese pork sausage), sliced cucumber, and bean sprouts, with the dipping sauce which is fish sauce called nước chấm.
+
+Ingredients:
+-	rice flour
+-	tapioca flour
+-	pork
+-	onion
+-	Tree ear
+-	purple onion
+-	seasoning: salt, monosodium glutamate, sugar, pepper, cooking oil  
+
+Famous places in HCM:
+-	Bánh cuốn Hồng Hạnh: 17A Nguyễn Thị Minh Khai St, Bến Nghé Ward, District 1, HCM City.
+-	Bánh Cuốn Trứng: 55/19 Vạn Kiếp St, W. 3, Bình Thạnh District, HCM City.
+-	Bánh cuốn Thiên Hương: 79A 3 Tháng 2 St, W.11, District 10, HCM City.
+-	Bánh cuốn Nhớ: 353 Lê Văn Sỹ St, District 3, HCM City
+-	Bánh Cuốn Nam Việt: 152 Nguyễn Biểu St, W.2, District 5, HCM City
+
+Price: 15.000-50.000 VND""",
+"mi_quang": """# [**Mì Quảng**](https://en.wikipedia.org/wiki/M%C3%AC_Qu%E1%BA%A3ng)
+
+Mì Quảng (also spelled mỳ Quảng) (literally: Quảng style noodle), is a Vietnamese noodle dish that originated from Quảng Nam Province in central Vietnam. In the region, it is one of the most popular and nationally recognized food items, and served on various occasions such as at family parties, death anniversaries, and Tết. Mì Quảng can both be found in many famous restaurants and Street vendors among Central provinces, which used as a popular breakfast & lunch item. 
+
+Ingredient:
+-	Rice noodle
+-	Shrimp or pork or chicken (sometimes fish or beef)
+-	Various herb
+-	Turmeric
+-	Peanuts
+-	Toasted rice paper
+-	Chili peppers
+-	Lime
+	
+Famous places in Quảng Nam:
+-	Quán 37: National Route 1A, Thăng Bình District, Quảng Nam Province
+-	Quán ông Hai: 6A Trương Minh Lượng Street, Hội An City
+	
+Famous places in HCM:
+-	Mì Quảng Sông Trà: 7/25 Thành Thái Street, District 10, HCM City
+-	Mì Quảng Mỹ Sơn: 9A Kỳ Đồng Street, Ward 9, District 3, HCM City
+-	Mì Quảng Sâm: 8 Ca Văn Thỉnh Street, Ward 11, Tân Bình District, HCM City
+-	Mì xứ Quảng: 190 Nguyễn Văn Thủ Street, District 1, HCM City
+-	Mì Quảng Mười: 93 Phan Sào Nam Street, Ward 11, Tân Bình District, HCM City
+	
+Price: 25.000-60.000 VND""",
+"banh_bot_loc": """# [**Bánh bột lọc**](https://en.wikipedia.org/wiki/B%C3%A1nh_b%E1%BB%99t_l%E1%BB%8Dc)
+
+Bánh bột lọc is a small, clear-looking, chewy tapioca dumplings in Vietnamese cuisine that can be eaten as appetizers or small snacks. They are usually filled with shrimp and pork belly, often being topped with fried shallots and served with sweet chili fish sauce. It is said to have originated from Huế, as the city was once the imperial capital of the Nguyễn dynasty and known for having simple, yet sophisticated dishes.
+
+Ingredients:
+-	Shrimp
+-	Tapioca flour
+-	Pork belly
+-	Garlic, chili, green onion
+-	Seasoning: sugar, seasoning powder, cooking oil, fish sauce, salt
+
+Famous places in Hue:
+-	Quán gốc Bà Cư: 23/117 Phan Đình Phùng St, Huế City
+-	Quán Mệ Lé: 04/17/9 Kim Long St, Huế City
+-	Quán Trung Bộ: 16 Tô Hiến Thành St, Huế City.
+
+Famous places in HCM:
+-	Bánh Bột Lọc Đạt Lý: 129 Hoàng Văn Thụ St, Ward.12, Phú Nhuận District, HCM City.
+-	Quán ăn Huế O Xuân:  22A - 22B Nguyễn Hữu Cầu St, Tân Định Ward, District 1, HCM City.
+-	Ẩm thực Nhà Bu: 18B/91 Nguyễn Thị Minh Khai St, Đa Kao Ward, District 1, HCM City.
+-	Bánh bột lọc Huế: 154/3 Hồ Bá Kiện St, W.15, District 10, HCM City.
+-	Bánh bột lọc Tân Trụ: 87/67 Nguyễn Sỹ Sách St, W.15, Tân Bình District, HCM City.
+  	
+Price: 1.000-5.000 VND""",
+"goi_cuon": """# [**Gỏi cuốn**](https://en.wikipedia.org/wiki/G%E1%BB%8Fi_cu%E1%BB%91n)
+
+Gỏi cuốn, Vietnamese spring roll, fresh spring roll, spring roll, or rice paper roll. Like other spring roll dishes, they are believed to have an origin in China and were introduced to Vietnam by Chinese immigrants although the gỏi cuốn has been modified to suit local tastes. They are served at room temperature (or cooled) and are not deep-fried or cooked on the outside. These rolls are considered to be a very popular appetizer with customers in Vietnamese restaurants.
+
+Ingredient:
+-	Pork 
+-	Prawn
+-	Vegetables (Green onion, bean-sprouts, lettuce,…)
+-	Rice vermicelli (Bún)
+-	Rice papper (Bánh tráng)
+-	Peanut sauce or other Vietnamese dipping sauces (called “nước chấm”), a condiment based on fish sauce
+	
+Famous places in HCM City: 
+-	Gỏi cuốn tôm nhảy LLQ: 424 Lạc Long Quân Street, Ward 5, District 11, HCM City
+-	Gỏi cuốn Hạnh: 420A Hoà Hảo Street, Ward 5, District 10, HCM City
+-	Gỏi cuốn – Lê Văn Sỹ: 359/1/9A Lê Văn Sỹ Street, District 3, HCM City
+-	Gỏi cuốn Ngon Ngon: 322/13 An Dương Vương Street, Ward 4, District 5, HCM City
+-	Gỏi cuốn 2K: 135 Vạn Kiếp Street, Ward 3, Bình Thạnh District, HCM City
+	
+Price: 5.000-10.000 VND / roll""",
+"chao_long": """# [**Cháo lòng**](https://www.tasteatlas.com/chao-long)
+
+Vietnamese Pork Organs Rice Congee (Chao Long) In some countries, they throw away pork organs and only use the pork meat and bone. It’s a big chance for any foreigner living or coming to Vietnam to enjoy amazing food which cooked from pork organs. Don’t be scared because it’s totally delicious and comfort dish of Vietnamese people. I would like to introduce Vietnamese pork organ rice congee which turns pork innards and blood into hearty and healthy rice congee. One of the highlights of Vietnamese pork organ rice congee is the flavorful broth cooked from pork bone, meat and organs for a few hours. The rice is pan-toasted before being cooked in broth until the rice grain breaks down. The pork organs and meat must be tender and there will be an attractive smell. The organs and meat are removed from the pot and sliced. To serve, the congee is ladled into a bowl. Then congealed blood, slices of pork meat, liver, chunks of tubular innards, fried scallions, fried dough, chopped green onion are added. Chao long couldn’t be a lack of fried dough which will be softened and engorges as it soaks up the rice congee like a sponge. Bean sprouts, lime wedges and fish sauce are available tableside for you to season the congee. Some prefer bean sprouts being put into the bowl before the congee is ladled. It’s easy to find a stall serving Chao long in Vietnam.
+
+Ingredients:
+-	Pork bones
+-	Normal rice
+-	Sticky rice
+-	Pork blood cubes
+-	Small intestine, stomach, liver, heart, gut, tongue, pork fat
+-	Salt, chili pepper, vinegar.
+-	Ginger, spring onion, bean sprout, purple basil, herb mint
+-	Qẩy (Vietnamese breadstick)
+
+Famous places in HCM:
+-	Cháo Lòng Cô Út: 193 Cô Giang St, District 1, HCM City – over 80-year-old street food stall which serves Chao long.
+-	Cháo Lòng at 107B Võ Thị Sáu St, District 1, HCM City.
+-	Cháo Lòng Co Ba: 12 Nguyễn Huy Từ St, District 1, HCM City
+-	Cháo Lòng at 153 Nguyễn Thị Minh Khai St, District 1, HCM City.
+-	Cháo Lòng 144: 144 Phan Đăng Lưu St, Ward 3, Phú Nhuận District, HCM City.
+
+Price: 20.000-50.0000 VND""",
+"xoi_gac": """# [**Xôi gấc**](https://delightfulplate.com/vietnamese-red-sticky-rice-xoi-gac/)
+
+Xôi gấc (Gac sticky rice) is a type of sticky rice with the characteristic red color of Gac fruit. This dish is used a lot and is indispensable in traditional Tet holidays and weddings in Vietnam because it is believed to bring good luck.
+	
+Ingredients:
+-	Sticky rice
+-	Gac fruit
+-	Sugar
+-	Salt
+-	White wine
+-	Sesame oil 
+-	Copra, coconut cream
+	
+Famous places in HCM:
+-	Xôi Bùi Thị Xuân: 111 Bùi Thị Xuân Street, Phạm Ngũ Lão Ward, District 1, HCM City
+-	Xôi chè Cô Phụng: 51/3 Hồ Thị Kỷ, Ward 1, District 10, HCM City
+-	Xôi chè Tuyết Lan: 83 Street 44, Ward 14, Gò Vấp District, HCM City
+-	Xôi chè Cô Hồng: 55 Street 7, Ward 3, Gò Vấp District, HCM City
+-	Xôi chè NgaTran: 105/22 Street 59, Ward 14, Gò Vấp District, HCM City 
+	
+Price: 10.000-20.0000 VND""",
+"xoai_lac": """# [**Xoài lắc**](https://e.vnexpress.net/news/travel/places/homemade-mango-shake-3370717.html)
+
+Xoài lắc (Mango shake) is a Viet Nam’s Street food. This is a favourite dish since 2016. Xoài lắc is a very simple dish, just mango and some spices in a glass.
+	
+ Ingredients:
+-	Raw (green) or rare ripe mangoes has sour and crunchy
+-	Chilli powder
+-	Shrimp salt
+-	Sugar
+-	Fish sauce
+	
+Famous places in HCM :
+-	Xoài lắc Hoàng Sa: 184 Đặng Văn Ngữ Street, Phú Nhuận District, HCM City
+-	Street Hawkers on Nguyễn Huệ Street, District 1, HCM City
+-	Xoài lắc Momo: 401B Trần Phú, Ward 7, District 5, HCM City
+-	Xoài lắc TNF: 29 Bắc Hải Street, Ward 15, District 10, HCM City
+-	Xoài lắc Bình Thỏ: 139/11 Ngô Tất Tố Street, Ward 22, Bình Thạnh District, HCM City
+	
+Price: 15.000 – 20.000 VND""",
+"pha_lau": """# [**Phá lấu**](https://en.wikipedia.org/wiki/Ph%C3%A1_l%E1%BA%A5u)
+
+Phá lấu is a Vietnamese dish from Ho Chi Minh City, made from pork meat and offal that is braised in a spiced stock of five-spice powder (with curry powder sometimes added) . Small wooden sticks are used to pick up the meat, which is then dipped in pepper, lime/kumquat and chili fish sauce and served with rice, noodle or bread. 
+
+Ingredients:
+-	Pork or beef viscera
+-	Sugar, salt, pepper, chilli powder
+-	Five spice powder
+-	Coconut water
+-	Garlic
+-	Shallot
+-	Chilli
+-	Ginger
+-	Fish sauce, soy sauce
+
+Famous places in HCM:
+-	Phá lấu bò cô Thảo: 243 Tôn Đản Street, Ward 15, District 4, HCM City
+-	Phá lấu Lì: 1A Sương Nguyệt Ánh Street, District 1, HCM City
+-	Phá lấu Dì Nủi: 243/30 Tôn Đản Street, Ward 15, District 4, HCM City
+-	Phá lấu bò Bà Hạt: 533 Bà Hạt Street, Ward 8, District 10, HCM City
+-	Phá lấu Cây Trâm: 208 Cây Trâm Street, Ward 9, Gò Vấp District, HCM City
+
+Price: 25.000 – 50.000 VND""",
+"bap_xao": """# [**Bắp xào**](https://delightfulplate.com/vietnamese-sauteed-corn-bap-xao/)
+
+Bap Xao (Vietnamese Sautéed Corn with Dried Shrimps) is a fun street food snack in Saigon. Each bite is filled with sweetness from corn, slight saltiness from dried shrimps and richness from butter. Made from humble ingredients, Bap Xao will surprise you with how tasty it is. The corn kernels are so sweet, plump, crisp and juicy. They are briefly sautéed with butter to give you a smooth and rich mouthfeel. Then come the dried shrimps with an umami and savory taste to balance the sweetness.
+
+Ingredients:
+-	Sweet corn
+-	Dried shrimps
+-	Scallions
+-	Oil
+-	Fish souce
+-	Butter
+-	Salt 
+-	Salted duck egg (optional)
+
+Famous places in HCM:
+-	Bắp xào trứng muối CÔ BA: 24c Cao Thăng St,  Ward 5, District 3, HCM City.
+-	Bắp xào Hồ Con Rùa: 118 Cô Giang St, Ward 2, Phú Nhuận District, HCM City.
+-	Bắp xào Cô Vân: 59 Nguyễn Bỉnh Khiêm St, Đa Kao Ward, Dítrict 1,  HCM City.
+-	Bắp xào Phạm Ngọc Thạch: 17 Phạm Ngọc Thạch ST, District 1, HCM City.
+-	Bắp xào Lê Hồng Phong: 438/44A Lê Hồng Phong St, Ward 1, District 10, HCM City.
+
+Price: 15.000-35.0000 VND"""}
